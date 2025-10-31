@@ -17,7 +17,7 @@ Lataa Maven sovellus `https://maven.apache.org/download.cgi`. Kun olet ladannut 
 2. Lisää uusi muuttuja:
    Nimi: `MAVEN_HOME`
    Laita arvoksi sijainti johon purit ladatun maven paketin.
-   Lisää `;%MAVEN_HOME%\bin` polkuun `Path`.
+3. Lisää `;%MAVEN_HOME%\bin` polkuun `Path`.
 
 Seuraavaksi Luo Maven projekti.
 Kun projekti on luotu klikkaa mvn ja sitten package. Tämän Maven luo JAR tiedosto sinun servermaster kansioon.
