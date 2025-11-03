@@ -23,9 +23,9 @@ Lataa Maven sovellus `https://maven.apache.org/download.cgi`. Kun olet ladannut 
 Asenna VS Code: `https://code.visualstudio.com/`.
 
 Kun VS Code on asennettu lisää seuraavat lisäosat:
-Extension Pack for Java
-Maven for Java
-Debugger for Java
+1. Extension Pack for Java
+2. Maven for Java
+3. Debugger for Java
 
 Kun Maven on asennettu oikein, sen pitäisi näkyä automaattisesti vasemman laidan valikossa VS Codessa (“Maven Projects”).
 
