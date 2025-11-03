@@ -1,4 +1,4 @@
-# JarMaven
+# HandLeVR 
 ## Ohje Maven-projektin luomiseen ja JAR-tiedoston tekemiseen
 
 ### 1. Lataa Java JDK 13+ versio.
