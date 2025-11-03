@@ -27,5 +27,7 @@ Extension Pack for Java
 Maven for Java
 Debugger for Java
 
+Kun Maven on asennettu oikein, sen pitäisi näkyä automaattisesti vasemman laidan valikossa VS Codessa (“Maven Projects”).
+
 Seuraavaksi Luo Maven projekti.
 Kun projekti on luotu klikkaa mvn ja sitten package. Tämän Maven luo JAR tiedosto sinun servermaster kansioon.
