@@ -20,7 +20,8 @@ Lataa Maven sovellus `https://maven.apache.org/download.cgi`. Kun olet ladannut 
 3. Lisää `;%MAVEN_HOME%\bin` polkuun `Path`.
 
 ### 3. Visual Studio Code -valmistelut  
-Asenna VS Code: `https://code.visualstudio.com/`
+Asenna VS Code: `https://code.visualstudio.com/`.
+
 Kun VS Code on asennettu lisää seuraavat lisäosat:
 Extension Pack for Java
 Maven for Java
