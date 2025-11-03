@@ -19,5 +19,12 @@ Lataa Maven sovellus `https://maven.apache.org/download.cgi`. Kun olet ladannut 
    Laita arvoksi sijainti johon purit ladatun maven paketin.
 3. Lisää `;%MAVEN_HOME%\bin` polkuun `Path`.
 
+### 3. Visual Studio Code -valmistelut  
+Asenna VS Code: `https://code.visualstudio.com/`
+Kun VS Code on asennettu lisää seuraavat lisäosat:
+Extension Pack for Java
+Maven for Java
+Debugger for Java
+
 Seuraavaksi Luo Maven projekti.
 Kun projekti on luotu klikkaa mvn ja sitten package. Tämän Maven luo JAR tiedosto sinun servermaster kansioon.
