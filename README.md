@@ -28,3 +28,9 @@ Kun VS Code on asennettu lisää seuraavat lisäosat:
 3. Debugger for Java
 
 Kun Maven on asennettu oikein, sen pitäisi näkyä automaattisesti vasemman laidan valikossa VS Codessa (“Maven Projects”).
+
+### 4. Luo Maven projekti klikkaamalla `+` näppäintä. Tämän jälkeen Maven luo .jar tiedoston kansioosi.
+
+### 5. Kopioi .jar tiedosto muistitikulle ja siirrä se RasberryPi:lle.
+
+Käynnistä .jar tiedosto Terminalissa ja kirjoita komento `java -jar MyProgram.jar`. (Myprogram kohtaan tiedoston nimi.)
