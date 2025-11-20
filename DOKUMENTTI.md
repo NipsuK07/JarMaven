@@ -24,6 +24,7 @@
 - Jos ei halua taustasuhinaa sen voi sulkea asetuksista ja painaa kohdasta `Maalauskaappi`.
 - Maalin poistaminen ja käyttöön otto .json tiedostosta. Esim. ignore=true.
 - Meille oli annettu liian hidas kone pyörittämään simulaattoria.
+- Pelin tietokoneen näytölle peilaukseen voisi lisätä näkökenttä (FOV) asetuksen, sillä pelaamisen tarkkailu näytön kautta on haastavaa.
 
 # Tietokoneen vaatimukset
 - USB 3.0
