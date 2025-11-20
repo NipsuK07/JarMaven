@@ -8,7 +8,11 @@
 - Säädä lasien sopivuus itsellesi takana olevasta rullasta.
 - Laita VR-lasit päähän.
 - Käynnistä VR-lasit oikealla puolella sijaitsevasta käynnistys nappulasta, paina pohjaan kunnes näet Meta Quest käynnistys ikkunan.
-- Ota ohjaimet käteen. Tiedät että ohjain on oikein päin kun ohjain istuu hyvin käteen ja kapuloissa tulisi lukea R ja L. 
+- Ota ohjaimet käteen. Tiedät että ohjain on oikein päin kun ohjain istuu hyvin käteen ja kapuloissa tulisi lukea R ja L.
+
+# VR-lasien käyttö
+- Älä jätä VR-laseja aurinkoon.
+- 
 
 # Käyttäjäkokemus (UX) TUKI
 - Kannattaa laittaa hyvät oletusasetukset ensikertalaiselle, esimerkiksi etäisyys kannattaa laittaa näkyville. Tämä löytyy `Asetukset` välilehdeltä.
@@ -20,8 +24,11 @@
 - Maalin poistaminen ja käyttöön otto .json tiedostosta. Esim. ignore=true.
 - Meille oli annettu liian hidas kone pyörittämään simulaattoria.
 
+# Tietokoneen vaatimukset
+- USB 3.0
+- 
 # Jatkokehitys
-- Jatkossa HandLe VR projektissa kannattaa olla parempi suomennus.
+- Parempi suomennus ja henkilö joka osaa saksaa ja tietää autoista.
 - Parempi maalin lisäys jonka voisi tehdä pelin sisässä.
 - Ei voi kävellä projektin ulkopuolelle seinien lävitse.
   
