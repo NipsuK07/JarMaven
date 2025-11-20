@@ -3,6 +3,7 @@
 - Sovelluksen käynnistyessä sovellus pyytää kirjautumaan tilille Meta Quest tunnuksistasi.
 - Kun olet kirjautunut sisään sinulle tulee sähköpostiin koodi joka tulee laittaa kirjautumisikkunaan.
 - Vahvista Meta-tilisi puhelinnumeron kautta.
+- Tarkista voiko virtual desktop vdxr korvata meta linkin.
 
 # VR-lasien käynnistys
 - Säädä lasien sopivuus itsellesi takana olevasta rullasta.
