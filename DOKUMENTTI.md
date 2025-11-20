@@ -1,3 +1,9 @@
+# Laitteen käyttöön otto.
+- Lataa meta quest link sovellus tietokoneelle.
+- Sovelluksen käynnistyessä sovellus pyytää kirjautumaan tilille Meta Quest tunnuksistasi.
+- Kun olet kirjautunut sisään sinulle tulee sähköpostiin koodi joka tulee laittaa kirjautumisikkunaan.
+- Vahvista Meta-tilisi puhelinnumeron kautta.
+
 # Käyttäjäkokemus (UX) TUKI
 - Kannattaa laittaa hyvät oletusasetukset ensikertalaiselle, esimerkiksi etäisyys kannattaa laittaa näkyville. Tämä löytyy `Asetukset` välilehdeltä.
 - Kahvaan näkyviksi mistä voi ottaa kiinni esimerkiksi selkeämpi grafiikka.
