@@ -26,7 +26,7 @@
 
 # Tietokoneen vaatimukset
 - USB 3.0
-- 
+- Näytönohjaimet: Nvidia RTX 
 # Jatkokehitys
 - Parempi suomennus ja henkilö joka osaa saksaa ja tietää autoista.
 - Parempi maalin lisäys jonka voisi tehdä pelin sisässä.
