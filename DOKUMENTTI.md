@@ -18,3 +18,14 @@
 - Jos maalipyssy menee väärin se voisi olla helpommin resetoitavissa.
 - Jos ei halua taustasuhinaa sen voi sulkea asetuksista ja painaa kohdasta `Maalauskaappi`.
 - Maalin poistaminen ja käyttöön otto .json tiedostosta. Esim. ignore=true.
+- Meille oli annettu liian hidas kone pyörittämään simulaattoria.
+
+# Jatkokehitys
+- Jatkossa HandLe VR projektissa kannattaa olla parempi suomennus.
+- Parempi maalin lisäys jonka voisi tehdä pelin sisässä.
+- Ei voi kävellä projektin ulkopuolelle seinien lävitse.
+  
+
+# Loppuraportti
+- Oli vaikeaa aloittaa uusi projekti
+- 
