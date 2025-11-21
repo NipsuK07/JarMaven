@@ -13,7 +13,12 @@
 
 # VR-lasien käyttö
 - Älä jätä VR-laseja aurinkoon.
-- 
+- Älä pidä juomia samalla pöydällä missä VR-lasit ja ohjaimet ovat.
+- Puhdistus tapahtuu laittamalla paperiin desinfiointi ainetta ja pyyhkimällä linssit. Myös kosketuspinnat on hyvä puhdistaa silloin tällöin ja nekin voi puhdistaa desinfiodulla paperilla.
+- Katso ympärille, että tiellä ei ole mitään. Tee itselle 2,5m x 2,5m kokoinen alue, jossa voit käyttää laseja.
+- Pystyt katsomaan laseilla oikeaa maailmaa tuplaklikkaamalla vasemmalta puolelta laseja ja vaihtamaan takaisin peliin samalla tavalla.
+- Käytä aina strappia kun käytät laseja (Lanka ohjaimissa). Kiristä sopivan tiukkalle.
+- Kun sammutat lasit, paina oikealla olevaa virtanappia niin kauan kunnes laite on sammunut, eli odota virransäästömoodin jälkeen niin kauan että näyttö menee pimeäksi.
 
 # Käyttäjäkokemus (UX) TUKI
 - Kannattaa laittaa hyvät oletusasetukset ensikertalaiselle, esimerkiksi etäisyys kannattaa laittaa näkyville. Tämä löytyy `Asetukset` välilehdeltä.
@@ -25,10 +30,12 @@
 - Maalin poistaminen ja käyttöön otto .json tiedostosta. Esim. ignore=true.
 - Meille oli annettu liian hidas kone pyörittämään simulaattoria.
 - Pelin tietokoneen näytölle peilaukseen voisi lisätä näkökenttä (FOV) asetuksen, sillä pelaamisen tarkkailu näytön kautta on haastavaa.
+- Peli vähän välkkyy.
 
 # Tietokoneen vaatimukset
 - USB 3.0
-- Näytönohjaimet: Nvidia RTX 
+- Näytönohjaimet: Nvidia RTX
+  
 # Jatkokehitys
 - Parempi suomennus ja henkilö joka osaa saksaa ja tietää autoista.
 - Parempi maalin lisäys jonka voisi tehdä pelin sisässä.
