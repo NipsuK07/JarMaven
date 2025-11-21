@@ -31,7 +31,9 @@
 - Meille oli annettu liian hidas kone pyörittämään simulaattoria.
 - Pelin tietokoneen näytölle peilaukseen voisi lisätä näkökenttä (FOV) asetuksen, sillä pelaamisen tarkkailu näytön kautta on haastavaa.
 - Peli vähän välkkyy.
-
+- Bugi jossa pelaaja teleporttaa pihalle maalaushuoneesta.
+- Näppäimistössä voisi olla nappi joka palauttaa pelaajan takaisin huoneeseen. (Esim. Space)
+  
 # Tietokoneen vaatimukset
 - USB 3.0
 - Näytönohjaimet: Nvidia RTX
@@ -40,7 +42,7 @@
 - Parempi suomennus ja henkilö joka osaa saksaa ja tietää autoista.
 - Parempi maalin lisäys jonka voisi tehdä pelin sisässä.
 - Ei voi kävellä projektin ulkopuolelle seinien lävitse.
-  
+- 
 
 # Loppuraportti
 - Oli vaikeaa aloittaa uusi projekti
